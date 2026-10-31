@@ -1,0 +1,6 @@
+{
+  "name": "Giveaway Hub",
+  "description": "Premium dark rewards and giveaway user dashboard with real-time participation, tasks, winners, and profile management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
